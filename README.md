@@ -1,6 +1,3 @@
-    Nama : Arofah Raudlatul Hasanah
-    Kelas : TI.24.A2
-    NIM   : 312410231
 
 # PROJECT TUGAS UTS 
 **Soal Tugas**  
