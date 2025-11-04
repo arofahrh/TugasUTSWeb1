@@ -8,7 +8,7 @@ Anda diminta untuk membuat aplikasi web sederhana untuk pemesanan buku pada sebu
 online. Pada tugas ini, mahasiswa berfokus pada proses front-end aplikasi, sehingga data-data 
 yang dibutuhkan tidak diambil dari server/database, tetapi melalai variable dapa javascript 
 berupa file js terpisah yang berisi data dalam format Array JSON.  
-<h1 align="center">📚 Cozy Bookstore</h1>
+<h1 align="center"> Cozy Bookstore</h1>
 
 <p align="center">
   <em>Website toko buku online  ☕</em>
@@ -30,7 +30,7 @@ Fokus proyek ini ada pada **struktur semantik, desain estetis, interaktivitas DO
 
 ---
 
-## 🏗️ Struktur Folder
+##  Struktur Folder
 📦 cozy-bookstore/
 ┣ 📜 index.html
 ┣ 📜 style.css
@@ -59,27 +59,27 @@ Fokus proyek ini ada pada **struktur semantik, desain estetis, interaktivitas DO
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 🏠 Dashboard
+###  Dashboard
 - Menampilkan **katalog buku terbaru** dari `data.js`
 - Fitur **pencarian real-time** berdasarkan nama, jenis, atau kode buku
 
-### 📦 Stok & Katalog
+###  Stok & Katalog
 - Tambah stok baru dengan **form modal interaktif**
 - Edit data buku dan stok langsung di tabel
 - Semua data dikelola via JavaScript DOM
 
-### 🛒 Checkout & Pemesanan
+###  Checkout & Pemesanan
 - Tambahkan buku ke **keranjang belanja**
 - Validasi input form sebelum pemesanan
 - Ringkasan total harga otomatis
 
-### 🚚 Tracking Pengiriman
+###  Tracking Pengiriman
 - Cek status pesanan berdasarkan **nomor DO**
 - Data tracking diambil dari `dataTracking` di `data.js`
 
-### 👤 Login Pengguna
+###  Login Pengguna
 Gunakan akun demo berikut:
 | Role | Email | Password |
 |------|--------|-----------|
@@ -88,7 +88,7 @@ Gunakan akun demo berikut:
 
 ---
 
-## 🖼️ Preview Tampilan Website
+##  Preview Tampilan Website
 
 | <img width="1913" height="925" alt="image" src="https://github.com/user-attachments/assets/8bd47ed5-01eb-4569-bd2f-ea0dd2162c09" />
  | <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/2d2db56b-f0a2-496c-a3c4-301d07e1b5d7" />
